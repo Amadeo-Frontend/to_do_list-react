@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import * as S from './styles'
-import * as enums from '../../utils/enuns/Tarefa'
+import * as enums from '../../utils/enums/Tarefa'
 
 type Props = {
   titulo: string
